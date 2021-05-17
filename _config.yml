@@ -3,14 +3,14 @@ lang: en
 title: Online Tools for unit conversions in astronomy
 tagline: Calculator
 email: alexis.yslau@gmail.com
-theme: bulma-clean-theme
+remote_theme: bulma-clean-theme
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 baseurl: ""
 url: "https://alexisyslau.github.io/astrotool.github.io/"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+# gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
