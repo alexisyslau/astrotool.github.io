@@ -9,7 +9,7 @@ author: Alexis Lau
 #baseurl: "/"
 url: "https://alexisyslau.github.io/astrotool.github.io/"
 permalink: pretty
-favicon: /img/nemo-favicon.png
+favicon: /favicon.png
 paginate: 9
 paginate_path: "/news/page:num"
 livereload: true
