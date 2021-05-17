@@ -1,11 +1,11 @@
 # Site Settings
 lang: en
-title: bwForCluster NEMO
-tagline: HPC cluster for Neuroscience, Elementary Particle Physics, Microsystems Engineering and Materials Science (NEMO).
-email: "enm-support@bwhpc.de"
+title: Online Tools for astronomical unit conversions
+tagline: 
+email: "alexis.yslau@gmail.com"
 description: >
-  HPC cluster for Neuroscience, Elementary Particle Physics, Microsystems Engineering and Materials Science (NEMO).
-author: 2021 HPC Team, University of Freiburg
+Online calculator for unit conversions
+author: Alexis Lau
 #baseurl: "/"
 url: "https://alexisyslau.github.io/astrotool.github.io/"
 permalink: pretty
