@@ -2,10 +2,10 @@
 lang: en
 title: AstroTool
 tagline: Calculator
-email: alexis.yslau@gmila.com
+email: alexis.yslau@gmail.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/astrotool"
+baseurl: ""
 url: "https://astrotool.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
